@@ -4,6 +4,7 @@ A lot of progress has been made on my end this week, i've created several interf
 engine and javafx classes, this includes a fully working timer.
 
 As of 14/03/2018 this is the current project structure I have.
+
 ![project structure](https://github.com/EPend/Blog/blob/master/Class_Structure.PNG)
 
 I am also working on an algorithm to allow the user to enter in a word instead of using the cube, and it will either return false, or 
