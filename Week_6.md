@@ -23,4 +23,4 @@ Time spent: 2 hours
 
 As of 16/03/2018 this is the current project structure I have.
 
-![project2 structure](https://github.com/EPend/Blog/blob/master/Class_Structure.PNG)
+![project2 structure](https://github.com/EPend/Blog/blob/master/Class_Structure_New.PNG)
