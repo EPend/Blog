@@ -10,6 +10,10 @@ Finished the interface description which describes the functions and uses of eve
 
 Time spent: 2 hours.
 
+Completed the majority of the significant algorithms/data structures section within the Design Specification.
+
+Time spent: 1 hour.
+
 ## Group issues
 
 Last week there was an issue with one of our group members pushing code that broke the build. As this member has only pushed two things, the other with a similar issue, and has had little to no contact with me regarding architecture I felt it better to bring it up in the meeting the following morning. Having informed him that there was an issue I was met with a hostile response refusing to acknowledge that he was responsible for the build breaking which I find completely arrogant and shows an inability to take criticism. 
