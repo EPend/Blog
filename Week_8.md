@@ -10,4 +10,8 @@ Refactoring and separating classes is done, everything should be a lot nicer to 
 
 Time spent: 4 hours.
 
+Updated class diagrams and Design documentation to reflect the current state of the build, refactored a lot of variables/functions,
+improved some functionalities across all scenes.
+
+Time spent: 2 hours.
 
