@@ -12,7 +12,7 @@ As of 14/03/2018 this is the current project structure I have.
 I am also working on an algorithm to allow the user to enter in a word instead of using the cube, and it will either return false, or 
 true with a linked list of cube ids to create the word on the cube.
 
-Time spent: 1 hours
+Time spent: 1 hour
 
 As of 15/03/2018 I found brute forcing it was a terrible idea and never should be tried by anyone. No more loops please.
 

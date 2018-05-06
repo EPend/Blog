@@ -5,6 +5,8 @@ out a ways each class will interact with each other in the finished game.
 
 ![class diagram](https://github.com/EPend/Blog/blob/master/Class_diagram.png?raw=true)
 
+Time spent: 1 hour
+
 During our tuesday group meeting we brought up that the letter Q had to be Qu in the cube, I made several changes
 and changed the data type from Character to String and added a clause for changing Q to Qu during randomisation.
 
@@ -15,3 +17,5 @@ if(temp.equals("Q")) {
 }
 cube.put(i, temp);
 ```
+
+Time spent: 1 hour

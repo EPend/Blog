@@ -10,3 +10,5 @@ I have updated the class diagram for the most up to date version of the cube.
 I have also spent time looking at how we can structure our seperated classes into different packages that can interact with
 a main application. Whilst I am doing this, I am also finding more about using interfaces to handle call backs for both javafx
 and timer threads for ui display.
+
+Time spent: 2 hours
